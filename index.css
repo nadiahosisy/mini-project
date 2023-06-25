@@ -1,0 +1,31 @@
+td,
+img {
+  width: 150px;
+  height: 150px;
+}
+.background-button1{
+    background-color: cadetblue;
+    font-family:Arial, Helvetica, sans-serif;
+    border-radius: 20px;
+}
+
+.background-button2{
+    background-color: cadetblue;
+    font-family:Arial, Helvetica, sans-serif;
+    border-radius: 20px; 
+}
+.background-button3{
+    background-color: cadetblue;
+    font-family:Arial, Helvetica, sans-serif;
+    border-radius: 20px; 
+}
+.background-button4{
+    background-color: cadetblue;
+    font-family:Arial, Helvetica, sans-serif;
+    border-radius: 20px; 
+}
+.background-button5{
+    background-color: cadetblue;
+    font-family:Arial, Helvetica, sans-serif;
+    border-radius: 20px;
+}
